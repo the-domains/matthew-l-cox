@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Matthew L Cox ]]></title>
+        <description><![CDATA[Matthew L Cox ]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 11 Apr 2016 03:44:18 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Matthew L. Cox ]]></title>
+            <description><![CDATA[<article><h1>Matthew L. Cox </h1><p>Welcome to my Site</p></article>]]></description>
+            <link>undefinedmatthew-l-cox/index.html</link>
+            <guid isPermaLink="false">58888acd-e768-4bb6-9399-5dfce1323df5</guid>
+            <pubDate>Mon, 11 Apr 2016 03:44:07 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
