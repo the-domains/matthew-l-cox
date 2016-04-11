@@ -4,7 +4,7 @@
         <description><![CDATA[Matthew L Cox ]]></description>
         <link>https://thegrid.ai/matthew-l-cox/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Apr 2016 03:49:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2016 04:53:49 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/matthew-l-cox/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Matthew L. Cox ]]></title>
@@ -16,9 +16,9 @@
         <item>
             <title><![CDATA[My Photo ]]></title>
             <description><![CDATA[<article><h1>My Photo </h1><p>My Photo</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2113eed98a164c51413d5426890ff381cb666f23.png"></article>]]></description>
-            <link>https://thegrid.ai/matthew-l-cox/my-photo/index.html</link>
+            <link>urn:uuid:6bb175bb-6c96-4d59-ba27-00e1ef0dbd1e</link>
             <guid isPermaLink="false">942f6e21-672a-4719-8ff8-c9e93ad422e2</guid>
-            <pubDate>Mon, 11 Apr 2016 03:48:49 GMT</pubDate>
+            <pubDate>Mon, 11 Apr 2016 04:52:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
