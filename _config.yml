@@ -1,0 +1,28 @@
+name: 'Matthew L Cox '
+favicon: null
+layout_spectrum: 0.7901226757094264
+typography_spectrum: 0.9374489246401936
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.2419108464382589
+  lightness: 0.6713258754462004
+  saturation: 0.0686235127504915
+  rhythmicContrast: 0.38119583763182163
+purpose: []
