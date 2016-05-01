@@ -1,40 +1,40 @@
-name: 'Matthew L Cox '
 favicon: null
-layout_spectrum: 0.75042
-typography_spectrum: 0.04925
+name: 'Matthew L Cox '
+opengraph:
+  image: null
+  type: null
+  appId: null
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
 color:
+  saturation: 0.625
+  brandStrength: 0.6087216
+  lightness: 0.8125
   brandColors:
     - '#000000'
     - '#3f3e3e'
     - '#5f5e5e'
     - '#fdf9fa'
     - '#ccaeac'
-  brandStrength: 0.0625
-  lightness: 0.8125
-  saturation: 0.625
   rhythmicContrast: 1
-purpose: []
+typography_spectrum: 0.4426523
+layout_spectrum: 0
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+cta:
+  bucket: null
+  version: null
+  domain: null
